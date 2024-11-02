@@ -1,4 +1,4 @@
-![frame_firefox_mac_dark (1)]([https://user-images.githubusercontent.com/80502833/187230764-e1bb2b44-c221-4529-ba73-a2261e636372.png](https://github.com/raunak-kumar0210/Projects/blob/main/Portfolio%20Website/Project%20Image.png))
+![frame_firefox_mac_dark (1)](https://github.com/raunak-kumar0210/Projects/blob/7bad1c240c15f77b34d46577aeb83c36ca29e7a4/Portfolio%20Website/Project%20Image.png)
 
 <h1 align="center">Personal Portfolio Website</h1>  
 
